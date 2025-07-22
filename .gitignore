@@ -1,0 +1,4 @@
+.env
+legacy/
+audio_segments/
+faiss_index/

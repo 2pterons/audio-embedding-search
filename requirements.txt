@@ -1,0 +1,7 @@
+torch
+torchaudio
+transformers
+faiss-cpu
+pydub
+numpy
+soundfile
